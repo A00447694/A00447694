@@ -12,7 +12,7 @@
 - 💬 Ask me about Python, ML, Data Analysis, and Productionization.
 - 📫 Reach out to me: via LinkedIn.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: There is pink snow on Neptune!
+- ⚡ Fun fact: "Did you know that the shortest-ever programming joke is just two characters long? It goes like this: There are only 10 types of people in the world: those who understand binary, and those who don't. 10 is equal to 2 in binary!"
 
 🛠️ Tech Stack
 
