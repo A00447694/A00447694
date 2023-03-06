@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/77205464/223228077-e2a22fca-997b-4ba6-9af3-c4b9f8501066.png)
+
 ### Hi there, this is Raj Chauhan! 👋
 
 <!--
@@ -14,7 +16,7 @@
 
 🛠️ Tech Stack
 
-👩🏻‍💻 Programming Languages:
+💻 Programming Languages:
 C,
 C++,
 CSS,
